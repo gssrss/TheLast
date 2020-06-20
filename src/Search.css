@@ -1,0 +1,56 @@
+.Search {
+  text-align: center;
+  margin: auto;
+  color: blue;
+}
+
+.label {
+  width: 500px;
+  height: 40px;
+  margin: auto;
+  color: rgba(56, 55, 55, 0.897);
+  font-size: xx-large;
+}
+.p {
+  color: rgba(56, 55, 55, 0.897);
+  font-size: xx-large;
+}
+
+.tablstl {
+  margin: auto;
+}
+.title {
+  font-size: 25px;
+  color: rgb(80, 168, 245);
+}
+.tdstyle {
+  background-color: rgb(236, 250, 202);
+  width: 135px;
+  height: 100%;
+  font-size: 20px;
+}
+
+.loader {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+
+.show {
+  display: inline-block;
+}
+.hide {
+  display: none;
+}
+.img {
+  width: 135px;
+  height: 100px;
+}
+
+.a {
+  height: 2500px;
+  width: 350px;
+}
